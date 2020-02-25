@@ -1,0 +1,138 @@
+ualprj   pts/0        2020-02-25 12:55 (130.160.124.4)
+uahkxc   pts/1        2020-02-18 06:57 (136.53.61.46)
+ualprj   pts/5        2020-02-25 08:00 (130.160.124.4)
+aubmmw   pts/6        2020-02-25 12:42 (131.204.254.87)
+aubcls61 pts/7        2020-02-25 14:06 (131.204.254.83)
+aublmg   pts/8        2020-02-25 13:12 (131.204.120.55)
+aubrzr   pts/9        2020-02-25 14:21 (csexmac189.eng.auburn.edu)
+ualpss   pts/10       2020-02-25 10:45 (130.160.125.1)
+aubcls103 pts/12       2020-02-25 10:51 (131.204.254.84)
+aubkel   pts/13       2020-02-25 11:10 (131.204.139.181)
+usadxh   pts/15       2020-02-18 09:58 (wan-215-227.usouthal.edu)
+ualsau   pts/16       2020-02-25 11:29 (62.178.197.140)
+ualmab   pts/19       2020-02-24 09:46 (130.160.124.4)
+ualpss   pts/20       2020-02-24 09:47 (130.160.125.1)
+ualmab   pts/21       2020-02-24 11:26 (130.160.124.4)
+aubmes   pts/23       2020-02-21 11:44 (131.204.254.86)
+
+
+
+
+The time is:
+
+
+The date is:
+Tue Feb 25 15:35:56 CST 2020
+aubcls103 aubcls61 aubkel aublmg aubmes aubmmw aubrzr uahkxc ualmab ualmab ualprj ualprj ualpss ualpss ualsau usadxh
+ 15:35:56 up 69 days, 23:00, 16 users,  load average: 0.00, 0.04, 0.10
+
+
+
+
+The time is:
+
+
+The date is:
+aubcls103 aubcls61 aubkel aublmg aubmes aubmmw aubrzr uahkxc ualmab ualmab ualprj ualprj ualpss ualpss ualsau usadxh
+ 15:42:02 up 69 days, 23:06, 16 users,  load average: 0.07, 0.03, 0.07
+
+
+
+
+The time is:
+15:45:11
+
+The date is:
+Febaubcls103 aubcls61 aubkel aublmg aubmes aubmmw aubrzr uahkxc ualmab ualmab ualprj ualprj ualpss ualpss ualsau usadxh
+ 15:45:11 up 69 days, 23:09, 16 users,  load average: 0.18, 0.08, 0.08
+aubarb aubcls103 aubcls61 aubkel aublmg aubmes aubmmw aubrzr uahkxc ualmab ualmab ualprj ualprj ualpss ualpss ualsau usadxh
+
+
+
+
+The time is:
+15:47:27
+
+The date is:
+Febualprj   pts/0        2020-02-25 12:55 (130.160.124.4)
+uahkxc   pts/1        2020-02-18 06:57 (136.53.61.46)
+aubarb   pts/4        2020-02-25 15:45 (131.204.254.86)
+ualprj   pts/5        2020-02-25 08:00 (130.160.124.4)
+aubmmw   pts/6        2020-02-25 12:42 (131.204.254.87)
+aubcls61 pts/7        2020-02-25 14:06 (131.204.254.83)
+aublmg   pts/8        2020-02-25 13:12 (131.204.120.55)
+aubrzr   pts/9        2020-02-25 14:21 (csexmac189.eng.auburn.edu)
+ualpss   pts/10       2020-02-25 10:45 (130.160.125.1)
+aubcls103 pts/12       2020-02-25 10:51 (131.204.254.84)
+aubkel   pts/13       2020-02-25 11:10 (131.204.139.181)
+usadxh   pts/15       2020-02-18 09:58 (wan-215-227.usouthal.edu)
+ualsau   pts/16       2020-02-25 11:29 (62.178.197.140)
+ualmab   pts/19       2020-02-24 09:46 (130.160.124.4)
+ualpss   pts/20       2020-02-24 09:47 (130.160.125.1)
+ualmab   pts/21       2020-02-24 11:26 (130.160.124.4)
+aubmes   pts/23       2020-02-21 11:44 (131.204.254.86)
+ 15:47:28 up 69 days, 23:11, 17 users,  load average: 0.31, 0.17, 0.11
+
+
+
+
+The time is:
+15:49:11
+
+The date is:
+Feb
+
+The users currently online are:
+ualprj   pts/0        2020-02-25 12:55 (130.160.124.4)
+uahkxc   pts/1        2020-02-18 06:57 (136.53.61.46)
+aubarb   pts/4        2020-02-25 15:45 (131.204.254.86)
+ualprj   pts/5        2020-02-25 08:00 (130.160.124.4)
+aubmmw   pts/6        2020-02-25 12:42 (131.204.254.87)
+aubcls61 pts/7        2020-02-25 14:06 (131.204.254.83)
+aublmg   pts/8        2020-02-25 13:12 (131.204.120.55)
+aubrzr   pts/9        2020-02-25 14:21 (csexmac189.eng.auburn.edu)
+ualpss   pts/10       2020-02-25 10:45 (130.160.125.1)
+aubcls103 pts/12       2020-02-25 10:51 (131.204.254.84)
+aubkel   pts/13       2020-02-25 11:10 (131.204.139.181)
+usadxh   pts/15       2020-02-18 09:58 (wan-215-227.usouthal.edu)
+ualsau   pts/16       2020-02-25 11:29 (62.178.197.140)
+ualmab   pts/19       2020-02-24 09:46 (130.160.124.4)
+ualpss   pts/20       2020-02-24 09:47 (130.160.125.1)
+ualmab   pts/21       2020-02-24 11:26 (130.160.124.4)
+aubmes   pts/23       2020-02-21 11:44 (131.204.254.86)
+
+
+The system uptime is:
+ 15:49:11 up 69 days, 23:13, 17 users,  load average: 0.07, 0.13, 0.11
+
+
+
+
+The time is:
+15:51:05
+
+The date is:
+Feb 25 2020
+
+The users currently online are:
+ualprj   pts/0        2020-02-25 12:55 (130.160.124.4)
+uahkxc   pts/1        2020-02-18 06:57 (136.53.61.46)
+aubarb   pts/4        2020-02-25 15:45 (131.204.254.86)
+ualprj   pts/5        2020-02-25 08:00 (130.160.124.4)
+aubmmw   pts/6        2020-02-25 12:42 (131.204.254.87)
+aubcls61 pts/7        2020-02-25 14:06 (131.204.254.83)
+aublmg   pts/8        2020-02-25 13:12 (131.204.120.55)
+aubrzr   pts/9        2020-02-25 14:21 (csexmac189.eng.auburn.edu)
+ualpss   pts/10       2020-02-25 10:45 (130.160.125.1)
+aubcls103 pts/12       2020-02-25 10:51 (131.204.254.84)
+aubkel   pts/13       2020-02-25 11:10 (131.204.139.181)
+usadxh   pts/15       2020-02-18 09:58 (wan-215-227.usouthal.edu)
+ualsau   pts/16       2020-02-25 11:29 (62.178.197.140)
+ualmab   pts/19       2020-02-24 09:46 (130.160.124.4)
+ualpss   pts/20       2020-02-24 09:47 (130.160.125.1)
+ualmab   pts/21       2020-02-24 11:26 (130.160.124.4)
+aubmes   pts/23       2020-02-21 11:44 (131.204.254.86)
+
+
+The system uptime is:
+ 15:51:05 up 69 days, 23:15, 17 users,  load average: 0.20, 0.20, 0.13
